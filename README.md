@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/Marco-Antonio-Rodrigues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marco-Antonio-Rodrigues&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-Antonio-Rodrigues&layout=compact&langs_count=7&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marco-Antonio-Rodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-Antonio-Rodrigues&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 <h3 align="left">Connect with me:</h3>
