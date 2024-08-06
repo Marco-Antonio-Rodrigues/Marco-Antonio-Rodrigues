@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 161.7 kB Used in GitHub's Storage 
  > 
-> 🏆 426 Contributions in the Year 2024
+> 🏆 427 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -18,21 +18,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                277 commits         ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
-🌆 Daytime                422 commits         █████████░░░░░░░░░░░░░░░░   37.15 % 
-🌃 Evening                433 commits         ██████████░░░░░░░░░░░░░░░   38.12 % 
+🌞 Morning                278 commits         ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+🌆 Daytime                422 commits         █████████░░░░░░░░░░░░░░░░   37.12 % 
+🌃 Evening                433 commits         ██████████░░░░░░░░░░░░░░░   38.08 % 
 🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   188 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-Tuesday                  230 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-Wednesday                153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Thursday                 178 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Friday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Saturday                 146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Sunday                   86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Monday                   188 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Tuesday                  231 commits         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+Wednesday                153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Thursday                 178 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Friday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Saturday                 146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Sunday                   86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
 ```
 
 
@@ -44,13 +44,7 @@ Sunday                   86 commits          ██░░░░░░░░░�
 💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors: 
-No Activity Tracked This Week
-
 🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 ```
 
@@ -66,12 +60,8 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Marco-Antonio-Rodrigues/Marco-Antonio-Rodrigues/main/assets/bar_graph.png)
-
-
- Last Updated on 06/08/2024 14:06:35 UTC
+ Last Updated on 06/08/2024 14:36:55 UTC
 <!--END_SECTION:waka-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=marco-antonio-rodrigues&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
