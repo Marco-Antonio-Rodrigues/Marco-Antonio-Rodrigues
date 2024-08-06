@@ -1,81 +1,9 @@
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 161.7 kB Used in GitHub's Storage 
- > 
-> 🏆 427 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 24 Public Repositories 
- > 
-> 🔑 15 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                278 commits         ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-🌆 Daytime                422 commits         █████████░░░░░░░░░░░░░░░░   37.12 % 
-🌃 Evening                433 commits         ██████████░░░░░░░░░░░░░░░   38.08 % 
-🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   188 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Tuesday                  231 commits         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-Wednesday                153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Thursday                 178 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Friday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Saturday                 146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Sunday                   86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   13 repos            ██████████░░░░░░░░░░░░░░░   41.94 % 
-C++                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Assembly                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-```
-
-
-
-
- Last Updated on 06/08/2024 14:36:55 UTC
-<!--END_SECTION:waka-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=marco-antonio-rodrigues&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Marco Antonio</h1>
 <h3 align="center">A Fullstack Developer</h3>
-
-<div align="center">
-  <a href="https://github.com/Marco-Antonio-Rodrigues">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marco-Antonio-Rodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Marco Antonio's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-Antonio-Rodrigues&layout=compact&langs_count=7&theme=dark" alt="Marco Antonio's Top Languages"/>
-  </a>
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -141,3 +69,68 @@ CSS                      1 repo              █░░░░░░░░░░�
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
 </p>
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 161.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 427 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 24 Public Repositories 
+ > 
+> 🔑 15 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                278 commits         ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+🌆 Daytime                422 commits         █████████░░░░░░░░░░░░░░░░   37.12 % 
+🌃 Evening                433 commits         ██████████░░░░░░░░░░░░░░░   38.08 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   188 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Tuesday                  231 commits         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+Wednesday                153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Thursday                 178 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Friday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Saturday                 146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Sunday                   86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   13 repos            ██████████░░░░░░░░░░░░░░░   41.94 % 
+C++                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Assembly                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+```
+
+
+
+
+ Last Updated on 06/08/2024 14:36:55 UTC
+<!--END_SECTION:waka-->
