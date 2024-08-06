@@ -1,4 +1,77 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 161.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 426 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 24 Public Repositories 
+ > 
+> 🔑 15 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                277 commits         ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+🌆 Daytime                422 commits         █████████░░░░░░░░░░░░░░░░   37.15 % 
+🌃 Evening                433 commits         ██████████░░░░░░░░░░░░░░░   38.12 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   188 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Tuesday                  230 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+Wednesday                153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Thursday                 178 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Friday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Saturday                 146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Sunday                   86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   13 repos            ██████████░░░░░░░░░░░░░░░   41.94 % 
+C++                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Assembly                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Marco-Antonio-Rodrigues/Marco-Antonio-Rodrigues/main/assets/bar_graph.png)
+
+
+ Last Updated on 06/08/2024 14:06:35 UTC
 <!--END_SECTION:waka-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=marco-antonio-rodrigues&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
