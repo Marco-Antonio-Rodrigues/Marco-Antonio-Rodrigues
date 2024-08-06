@@ -1,3 +1,5 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=marco-antonio-rodrigues&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
