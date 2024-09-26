@@ -73,8 +73,6 @@
 
 > 📦 235.4 kB Used in GitHub's Storage 
  > 
-> 🏆 558 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
@@ -106,7 +104,7 @@ Sunday                   92 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     53 mins             █████████████████████████   100.00 % 
+Dart                     1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -122,5 +120,5 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2024 18:44:55 UTC
+ Last Updated on 26/09/2024 18:44:25 UTC
 <!--END_SECTION:waka-->
