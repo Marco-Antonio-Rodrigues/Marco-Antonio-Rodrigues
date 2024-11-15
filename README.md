@@ -73,6 +73,8 @@
 
 > 📦 242.1 kB Used in GitHub's Storage 
  > 
+> 🏆 630 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
@@ -104,9 +106,7 @@ Sunday                   105 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 12 mins       ████████████████████░░░░░   78.14 % 
-Prisma                   35 mins             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -122,5 +122,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/11/2024 18:44:31 UTC
+ Last Updated on 15/11/2024 18:46:18 UTC
 <!--END_SECTION:waka-->
